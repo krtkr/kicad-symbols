@@ -328,6 +328,12 @@ K circular DIN connector
 F http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf
 $ENDCMP
 #
+$CMP HR911105A
+D Single Port RJ45 Connector with Magnetics Module and LED
+K RJ45 magnetics led
+F https://elecfreaks.com/estore/download/EF01012-HR911105A.pdf
+$ENDCMP
+#
 $CMP IEEE1394a
 D FireWire/IEEE1394a 6-pin connector
 K connector IEEE1394a FireWire
